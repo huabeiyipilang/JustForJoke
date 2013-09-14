@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">敢不敢点一下</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- joke -->
+    <string name="warning">警告</string>
+    <string name="notification">您的手机已被锁定，若要解锁，请重新刷机。或者联系李大爷，跪求解锁方法。</string>
+</resources>
